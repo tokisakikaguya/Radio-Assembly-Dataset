@@ -1,3 +1,2 @@
 # Assembly-behavior-recognition-method-and-dataset
-This project provides a radio assembly data set that conforms to actual production scenarios and an assembly behavior recognition method.
-The code and dataset will come soon.
+This project provides a Radio Assembly dataset that conforms to actual production scenarios .
